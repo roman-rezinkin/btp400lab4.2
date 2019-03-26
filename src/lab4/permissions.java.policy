@@ -1,0 +1,8 @@
+/* AUTOMATICALLY GENERATED ON Sat Mar 23 13:45:32 EDT 2019*/
+/* DO NOT EDIT */
+
+grant {
+  permission java.security.AllPermission;
+  permission java.io.FilePermission "/Users/romanrezinkin/IdeaProjects/btp400lab4.2/src/lab4/input.txt", "delete";
+};
+
